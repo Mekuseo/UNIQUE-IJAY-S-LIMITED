@@ -1,6 +1,6 @@
-# React-Trippy-Tour-Travel-Website
+# Unique Ijay's Website
 
-[<img alt="React Website Tutorial Tour & Travel" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/React-Trippy-Tour-Travel-Website.PNG?raw=true" />](https://www.youtube.com/c/Tech2etc/videos)
+[<img alt="unique Ijay's website" width="100%" src="src\assets\Screenshot1.png" />]
 
 Hi everyone, welcome to our new react js website tutorial. In this tutorial, We will create a responsive tour and travel website using react js.
 
