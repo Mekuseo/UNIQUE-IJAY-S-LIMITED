@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfb1bfee.css",
+    "main.js": "/static/js/main.2cbfaf9c.js",
+    "static/media/our services.jpg": "/static/media/our services.04163e280ba2d55f26d6.jpg",
+    "static/media/instrumentation.jpg": "/static/media/instrumentation.85abe011a0d378e980b4.jpg",
+    "static/media/cs handshake.jpg": "/static/media/cs handshake.378fdb4caae8b299f888.jpg",
+    "static/media/female customer service.jpg": "/static/media/female customer service.90ad19d86898e5729f8b.jpg",
+    "static/media/mech engineer.jpg": "/static/media/mech engineer.597aab829ca05a85de32.jpg",
+    "static/media/oil engineer2.jpg": "/static/media/oil engineer2.e68337912890446afb01.jpg",
+    "static/media/contact us.jpg": "/static/media/contact us.1287ccea2734d740744a.jpg",
+    "static/media/electrical.jpg": "/static/media/electrical.d4040891428a3184d553.jpg",
+    "static/media/procurement.jpg": "/static/media/procurement.698eebdf24be527d0115.jpg",
+    "static/media/civil.jpg": "/static/media/civil.e3dca71c30a9294f8d5b.jpg",
+    "static/media/about us.jpg": "/static/media/about us.fc14ad8b7963974d590f.jpg",
+    "static/media/oil engineer.avif": "/static/media/oil engineer.0848498b197cff9ee3b5.avif",
+    "index.html": "/index.html",
+    "main.cfb1bfee.css.map": "/static/css/main.cfb1bfee.css.map",
+    "main.2cbfaf9c.js.map": "/static/js/main.2cbfaf9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfb1bfee.css",
+    "static/js/main.2cbfaf9c.js"
+  ]
+}
