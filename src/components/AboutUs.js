@@ -5,26 +5,27 @@ function AboutUs() {
     <div className="about-container">
       <h1>Our History</h1>
       <p>
-        Trippy is owned and managed by Trippy .In Pvt. Ltd., a leading brand in
-        web designing services and e-commerce solutions. Trippy .In Pvt. Ltd. is
-        counted for its expertise in web solutions and its top ranking business
-        portals. Our invincible expertise and rich experience has raised our
-        spirit to reach ahead from our client's expectation. Commendable success
-        rate of other portals managed by Trippy is a live paradigm of our work
-        excellence.
+        Unique Ijay's Limited has successfully undertaken various
+        projects that reflect our stronghold in supply chain management both in
+        the Power Generation/Distribution, Oil and Gas (upstream and downstream)
+        industries. We have provided professional energy consulting services to
+        industrial and commercial end users. Our approach is unique in that we
+        develop an array of customized solutions to fit each client’s individual
+        needs.
       </p>
 
       <h1>Our Mission</h1>
       <p>
-        Our mission is to touch the horizon where our capabilities may
-        successfully meet with the requirements of our clients, that too with
-        ultimate transparency and cost-effectiveness.
+        Transforming the lives of our clients and the communities they live in
+        by providing energy solutions that are safe, reliable, clean, and
+        economical.
       </p>
 
       <h1>Our Vision</h1>
       <p>
-        To sow the seeds of par-excellence services with customer centric
-        approach and reap the trust of worldwide clients.
+        To be Africa’s model EPC service provider by balancing leadership,
+        people focus, safety and Innovation with ethical professionalism and
+        operational excellence. .
       </p>
     </div>
   );

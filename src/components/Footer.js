@@ -10,17 +10,11 @@ const Footer = () => {
             <p>Your partner in energy production and exploration.</p>
           </div>
           <div>
-            <a href="https://fontawesome.com/">
+            <a href="https://facebook.com/uniqueijayslimited">
               <i className="fa-brands fa-facebook-square"></i>
             </a>
-            <a href="https://fontawesome.com/">
+            <a href="https://instagram.com/uniqueijayslimited">
               <i className="fa-brands fa-instagram-square"></i>
-            </a>
-            <a href="https://fontawesome.com/">
-              <i className="fa-brands fa-whatsapp-square"></i>
-            </a>
-            <a href="https://fontawesome.com/">
-              <i className="fa-brands fa-twitter-square"></i>
             </a>
           </div>
         </div>
@@ -28,29 +22,12 @@ const Footer = () => {
         <div className="bottom">
           <div>
             <h4>Project</h4>
-            <a href="https://fontawesome.com/">Changelog</a>
-            <a href="https://fontawesome.com/">Status</a>
-            <a href="https://fontawesome.com/">License</a>
-            <a href="https://fontawesome.com/">All Versions</a>
+            <a href="https://uniqueijayslimited.com/service/">Services</a>
+            <a href="https://uniqueijayslimited.com/service/">About</a>
           </div>
           <div>
-            <h4>Community</h4>
-            <a href="https://fontawesome.com/">GitHub</a>
-            <a href="https://fontawesome.com/">Issues</a>
-            <a href="https://fontawesome.com/">Project</a>
-            <a href="https://fontawesome.com/"> Twitter</a>
-          </div>
-          <div>
-            <h4>Help</h4>
-            <a href="https://fontawesome.com/">Support</a>
-            <a href="https://fontawesome.com/">Troubleshooting</a>
-            <a href="https://fontawesome.com/">Contact Us</a>
-          </div>
-          <div>
-            <h4>Others</h4>
-            <a href="https://fontawesome.com/">Terms of Service</a>
-            <a href="https://fontawesome.com/">Privacy Policy</a>
-            <a href="https://fontawesome.com/">License</a>
+            <h4>Contact Us</h4>
+            <a href="https://https://uniqueijayslimited.com/about/">About</a>
           </div>
         </div>
       </div>
