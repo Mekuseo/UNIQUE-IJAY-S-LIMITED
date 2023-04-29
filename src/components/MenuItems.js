@@ -7,25 +7,25 @@ export const MenuItems = [
   },
   {
     title: "About",
-    url: "/about",
+    url: "https://uniqueijayslimited.com//about",
     cName: "nav-links",
     icon: "fa-solid fa-circle-info"
   },
   {
     title: "Service",
-    url: "/service",
+    url: "https://uniqueijayslimited.com//service",
     cName: "nav-links",
     icon: "fa-solid fa-briefcase"
   },
   {
     title: "Contact",
-    url: "/contact",
+    url: "https://uniqueijayslimited.com//contact",
     cName: "nav-links",
     icon: "fa-solid fa-address-book"
   },
   {
     title: "Sign Up",
-    url: "/home",
+    url: "https://uniqueijayslimited.com//home",
     cName: "nav-links-mobile"
   }
 ];
