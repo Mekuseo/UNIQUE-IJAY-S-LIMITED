@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-app-name
+    name: Unique Ijay's Limited
     env: static
     buildCommand: npm run build
     staticPublishPath: build/
