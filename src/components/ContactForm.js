@@ -11,7 +11,7 @@ function ContactForm() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_d20x0ci', 'template_mc3jhfq', form.current, 'Zcp_wyASYiwTqlx1-')
+    emailjs.sendForm('service_obegbno', 'template_mc3jhfq', form.current, 'Zcp_wyASYiwTqlx1-')
       .then((result) => {
           console.log(result.text);
           console.log("message sent");
@@ -27,6 +27,7 @@ function ContactForm() {
     <>
       <div className="form-container">
         <h1>Send us a message!</h1>
+        <p>Or reach out to us here: <span style={{color:"red"}}>info@uniqueijayslimited.com</span></p>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="user_name" value={nameInput} onChange={(e) => setNameInput(e.target.value)} placeholder="...name" />
           <input type="email" name="user_email" value={emailInput} onChange={(e) => setEmailInput(e.target.value)} placeholder="...email" />

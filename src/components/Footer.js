@@ -22,12 +22,12 @@ const Footer = () => {
         <div className="bottom">
           <div>
             <h4>Project</h4>
-            <a href="https://uniqueijayslimited.com/service/">Services</a>
-            <a href="https://uniqueijayslimited.com/service/">About</a>
+            <a href="/service">Services</a>
+            <a href="/about">About</a>
           </div>
           <div>
             <h4>Contact Us</h4>
-            <a href="https://https://uniqueijayslimited.com/about/">About</a>
+            <a href="/contact">About</a>
           </div>
         </div>
       </div>
